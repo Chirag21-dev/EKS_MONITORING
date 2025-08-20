@@ -1,0 +1,4 @@
+creating of eks cluster through eksctl cli having 2 worker nodes,kubectl for communication with api server and monitoring of cluster using Prometheus and grafana installed through helm chart.
+
+And got the metrics related to kubernetes cluster in prometheus ui by exposing the service of prometheus, viewed the metrics related to the various compoents of prometheus stack as shown in the screen shot 240,241.
+Also visualized the kubernetes cluster, various metrics related to nodes,api server,alertmanager etc in grafana dashboard as shown in the figure 233,234,235,236,237,238,239
